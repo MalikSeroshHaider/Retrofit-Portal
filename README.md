@@ -144,3 +144,29 @@ Any email/password is accepted (no real authentication).
 
 - No backend — replace the imports in `src/data/` with real API calls when ready.
 - SPA fallback for hosting is configured in `vercel.json` (rewrites all routes to `index.html`).
+
+## Screenshots
+
+### Landing Page
+![Landing Page](./screenshots/landing.png)
+
+![Landing Page](./screenshots/Home2.png)
+
+![Landing Page](./screenshots/Home3.png)
+
+### Services Catalogue
+![Services Catalogue](./screenshots/Services.png)
+
+![Services Catalogue](./screenshots/ServicesCard.png)
+
+### Client Dashboard
+![Client Dashboard](./screenshots/Client-Dashboard.png)
+
+### Project Detail
+![Project Detail](./screenshots/Project-Detail.png)
+
+### Admin Dashboard
+![Admin Dashboard](./screenshots/Admin-Dashboard.png)
+
+### Service Management
+![Service Management](./screenshots/Service-Mangement.png)
