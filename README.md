@@ -148,25 +148,25 @@ Any email/password is accepted (no real authentication).
 ## Screenshots
 
 ### Landing Page
-![Landing Page](./screenshots/landing.png)
+![Landing Page](./Screenshots/landing.png)
 
-![Landing Page](./screenshots/Home2.png)
+![Landing Page](./Screenshots/Home2.png)
 
-![Landing Page](./screenshots/Home3.png)
+![Landing Page](./Screenshots/Home3.png)
 
 ### Services Catalogue
-![Services Catalogue](./screenshots/Services.png)
+![Services Catalogue](./Screenshots/Services.png)
 
-![Services Catalogue](./screenshots/ServicesCard.png)
+![Services Catalogue](./Screenshots/ServicesCard.png)
 
 ### Client Dashboard
-![Client Dashboard](./screenshots/Client-Dashboard.png)
+![Client Dashboard](./Screenshots/Client-Dashboard.png)
 
 ### Project Detail
-![Project Detail](./screenshots/Project-Detail.png)
+![Project Detail](./Screenshots/Project-Detail.png)
 
 ### Admin Dashboard
-![Admin Dashboard](./screenshots/Admin-Dashboard.png)
+![Admin Dashboard](./Screenshots/Admin-Dashboard.png)
 
 ### Service Management
-![Service Management](./screenshots/Service-Mangement.png)
+![Service Management](./Screenshots/Service-Management.png)
